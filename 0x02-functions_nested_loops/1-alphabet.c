@@ -1,4 +1,4 @@
-#include "anything.h"
+#include "alphabet.h"
 /**
  * Print_alphabet - Print alphabet in lowercase using only `_putchar`
  * Return: 0
@@ -14,4 +14,4 @@ void print_alphabet(void)
 		c++;
 	}
 	_putchar('\n');
-}
+}i
